@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793590603|182325240';
+const CACHE_VERSION = '1793595338|410848493';
 /** @type {string} */
 const CACHE_PREFIX = 'Robotic Counters-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
